@@ -44,6 +44,7 @@ The monetization scheme mostly relies on Rewarded video Ads as well as in-app pu
 
 ## Screen captures
 These screen captures have been recorded on a iPhone XS device.
+
 <img src="Media/gif3.gif" width="254" height="550"/> <img src="Media/gif5.gif" width="254" height="550"/>
 
 <img src="Media/gif6.gif" width="254" height="550"/> <img src="Media/gif7.gif" width="254" height="550"/>
