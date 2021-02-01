@@ -43,7 +43,7 @@ Tilt uses the Unity Advertisements API in order to provide Banner Ads and Video 
 The monetization scheme mostly relies on Rewarded video Ads as well as in-app purchases.
 
 ## Screen captures
-These screen captures have been recorded on a iPhone XS device.
+These screen captures have been recorded on an iPhone XS device.
 
 <img src="Media/gif3.gif" width="254" height="550"/> <img src="Media/gif5.gif" width="254" height="550"/>
 
